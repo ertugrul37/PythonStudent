@@ -104,5 +104,12 @@
 # print(x*y)
 # print(x/y)
 
-# +++++++++++++++++ örnek çalışma 2++++++++++++++++
+# +++++++++++++++++*****Math formül******++++++++++++++++
+# print(round(9.8)) #round sayıyı yuvarlamak için kullanılır.
+# print(abs(-9)) #abs mutlak değerini alır yani sıfıra olan uzaklığını
+#
+# import math #math kütüpanesi
+# print(math.sqrt(9)) #kare kökü alma
 
+print(min(10,5,8,7,9,1)) #parentez içine yazılan değerlerin en küçüğünü alma.
+print(max(10,5,8,7,9,1)) #parentez içine yazılan değerlerin en büyüğünü alma.
