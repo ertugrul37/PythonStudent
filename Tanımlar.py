@@ -113,3 +113,16 @@
 
 # print(min(10,5,8,7,9,1)) #parentez içine yazılan değerlerin en küçüğünü alma.
 # print(max(10,5,8,7,9,1)) #parentez içine yazılan değerlerin en büyüğünü alma.
+
+# ---------------------------------Koşullu ifade------------------------------------------------------------------------------------------
+
+# +++++++++++++++++*****Örnek******++++++++++++++++
+# yagmurlu = False
+# gunesli = False
+#
+# if yagmurlu:
+#     print("Şemsiyeni al")
+# elif gunesli:
+#     print("Güneş gözlüğü al")
+# else:
+#     print("Normal giyin")
