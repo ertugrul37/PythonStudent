@@ -111,5 +111,5 @@
 # import math #math kütüpanesi
 # print(math.sqrt(9)) #kare kökü alma
 
-print(min(10,5,8,7,9,1)) #parentez içine yazılan değerlerin en küçüğünü alma.
-print(max(10,5,8,7,9,1)) #parentez içine yazılan değerlerin en büyüğünü alma.
+# print(min(10,5,8,7,9,1)) #parentez içine yazılan değerlerin en küçüğünü alma.
+# print(max(10,5,8,7,9,1)) #parentez içine yazılan değerlerin en büyüğünü alma.
