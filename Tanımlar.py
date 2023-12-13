@@ -93,3 +93,13 @@
 # print(x // y) #tam sayı bölme sonucunu ekrana yazdırmak için kullanılır.
 # print(x % y)  # kalan bulma için yüzde kullanılır.
 # print(x ** y) #sayının üstünü almak için kullanılır.
+
+ # örnek çalışma
+
+x = int(input("Sayı Giriniz = "))
+y = int(input("Sayı Giriniz = "))
+
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
