@@ -84,7 +84,7 @@
 
 # x, y = 9, 5
 
-# dört işlem
+# +++++++++++++++dört işlem+++++++++++++++++++
 # print(x + y) #toplama
 # print(x - y) #çıkarma
 # print(x * y) #çarpma
@@ -94,12 +94,15 @@
 # print(x % y)  # kalan bulma için yüzde kullanılır.
 # print(x ** y) #sayının üstünü almak için kullanılır.
 
- # örnek çalışma
+# +++++++++++++++++ örnek çalışma 1++++++++++++++++
 
-x = int(input("Sayı Giriniz = "))
-y = int(input("Sayı Giriniz = "))
+# x = int(input("Sayı Giriniz : "))
+# y = int(input("Sayı Giriniz : "))
 
-print(x+y)
-print(x-y)
-print(x*y)
-print(x/y)
+# print(x + y)
+# print(x-y)
+# print(x*y)
+# print(x/y)
+
+# +++++++++++++++++ örnek çalışma 2++++++++++++++++
+
