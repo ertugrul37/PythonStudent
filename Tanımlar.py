@@ -126,3 +126,24 @@
 #     print("Güneş gözlüğü al")
 # else:
 #     print("Normal giyin")
+
+# ---------------------------------Mantıksal Operatörler------------------------------------------------------------------------------------------
+
+# ehliyet = False
+# araba = True
+#
+#
+# if ehliyet and araba:
+#     print("Araba kullanabilirsin.")
+# elif araba and not ehliyet:
+#     print("Sürücü kursuna başvurun.")
+# elif ehliyet or araba:
+#     print("Araba kullanmana çok az kaldı.")
+# else:
+#     print("Araba kullanmana çok zaman var.")
+#
+# not: İşlenen Yanlış ise Doğru değerini döndürür (veya tersi).
+# and: Her iki işlenen de Doğru ise Doğru değerini döndürür. Aksi takdirde False değerini döndürür.
+# or: En az bir işlenen Doğru ise Doğru değerini döndürür. Her iki işlenen de False ise False değerini döndürür.
+
+# ---------------------------------Karşılaştırma Operatörler------------------------------------------------------------------------------------------
