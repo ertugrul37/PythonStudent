@@ -147,3 +147,11 @@
 # or: En az bir işlenen Doğru ise Doğru değerini döndürür. Her iki işlenen de False ise False değerini döndürür.
 
 # ---------------------------------Karşılaştırma Operatörler------------------------------------------------------------------------------------------
+
+# ==: Eşitlik operatörü. İki değerin birbirine eşit olup olmadığını kontrol eder.
+# !=: Eşitsizlik operatörü. İki değerin eşit olup olmadığını kontrol eder.
+# <: Küçüktür operatörü. Soldaki değer, sağdaki değerden küçükse True döner.
+# >: Büyüktür operatörü. Soldaki değer, sağdaki değerden büyükse True döner.
+# <=: Küçük veya eşittir operatörü. Soldaki değer, sağdaki değere küçük veya eşitse True döner.
+# >=: Büyük veya eşittir operatörü. Soldaki değer, sağdaki değere büyük veya eşitse True döner.
+
