@@ -155,3 +155,13 @@
 # <=: Küçük veya eşittir operatörü. Soldaki değer, sağdaki değere küçük veya eşitse True döner.
 # >=: Büyük veya eşittir operatörü. Soldaki değer, sağdaki değere büyük veya eşitse True döner.
 
+# +++++++++++++ ÖRNEK +++++++++++++++++++
+# a = 5
+# b = 10
+
+# print(a == b)  # False
+# print(a != b)  # True
+# print(a < b)   # True
+# print(a > b)   # False
+# print(a <= b)  # True
+# print(a >= b)  # False
