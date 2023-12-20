@@ -165,3 +165,21 @@
 # print(a > b)   # False
 # print(a <= b)  # True
 # print(a >= b)  # False
+
+# +++++++++++++ ÖRNEK +++++++++++++++++++
+
+# sıcaklık = 8
+#
+# if sıcaklık > 30:
+#     print("Hava sıcak")
+# elif 10 <= sıcaklık <= 25:
+#     print("Hava normal")
+# elif 0 <= sıcaklık <= 10:
+#     print("Hava soğuk")
+# elif sıcaklık <= 0:
+#     print("Kar yağışı")
+# else:
+#     print("Belirtilen aralıklarda bir sıcaklık değeri bulunamadı.")
+
+
+
